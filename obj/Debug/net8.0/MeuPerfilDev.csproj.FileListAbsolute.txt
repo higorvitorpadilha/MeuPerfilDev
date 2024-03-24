@@ -1,0 +1,14 @@
+C:\Users\Higor\Desktop\c#visualcode\MeuPerfilDev\bin\Debug\net8.0\MeuPerfilDev.exe
+C:\Users\Higor\Desktop\c#visualcode\MeuPerfilDev\bin\Debug\net8.0\MeuPerfilDev.deps.json
+C:\Users\Higor\Desktop\c#visualcode\MeuPerfilDev\bin\Debug\net8.0\MeuPerfilDev.runtimeconfig.json
+C:\Users\Higor\Desktop\c#visualcode\MeuPerfilDev\bin\Debug\net8.0\MeuPerfilDev.dll
+C:\Users\Higor\Desktop\c#visualcode\MeuPerfilDev\bin\Debug\net8.0\MeuPerfilDev.pdb
+C:\Users\Higor\Desktop\c#visualcode\MeuPerfilDev\obj\Debug\net8.0\MeuPerfilDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Higor\Desktop\c#visualcode\MeuPerfilDev\obj\Debug\net8.0\MeuPerfilDev.AssemblyInfoInputs.cache
+C:\Users\Higor\Desktop\c#visualcode\MeuPerfilDev\obj\Debug\net8.0\MeuPerfilDev.AssemblyInfo.cs
+C:\Users\Higor\Desktop\c#visualcode\MeuPerfilDev\obj\Debug\net8.0\MeuPerfilDev.csproj.CoreCompileInputs.cache
+C:\Users\Higor\Desktop\c#visualcode\MeuPerfilDev\obj\Debug\net8.0\MeuPerfilDev.dll
+C:\Users\Higor\Desktop\c#visualcode\MeuPerfilDev\obj\Debug\net8.0\refint\MeuPerfilDev.dll
+C:\Users\Higor\Desktop\c#visualcode\MeuPerfilDev\obj\Debug\net8.0\MeuPerfilDev.pdb
+C:\Users\Higor\Desktop\c#visualcode\MeuPerfilDev\obj\Debug\net8.0\MeuPerfilDev.genruntimeconfig.cache
+C:\Users\Higor\Desktop\c#visualcode\MeuPerfilDev\obj\Debug\net8.0\ref\MeuPerfilDev.dll
